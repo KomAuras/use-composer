@@ -1,0 +1,1 @@
+# Sample plugin with use composer for class autoload
